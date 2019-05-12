@@ -25,9 +25,10 @@ Le graphique en barre était à mon sens le type le plus adapté à mes informat
 
 ## But du projet
 
-**Ce que vous souhaitez démontrer **
+**Ce que vous souhaitez démontrer**
 
 J'ai voulu choisir des pays un peu moins connus pour les vins, en excluant la France, l'Italie et l'Espagne. En choisissant l'Argentine, les USA, l'Afrique du Sud et le Chili, je souhaite démontrer qu'il n'y a pas uniquement les vins très populaires qui sont bons mais également ceux d'autres continents, ce qui peut permettre d'élargir nos horizons et découvrir de nouvelles choses.
 
 **Le public cible**
+
 Ce graphique cible principalement les amateurs de vins.
