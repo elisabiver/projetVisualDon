@@ -8,7 +8,7 @@ Les données ont été trouvées sur Kaggle.com et ont été téléchargées en 
 
 **Comment vous les avez transformées ?**
 
-Il était compliqué de les transformer car il y avait plus de 65'000 données, ce qui le. J'ai dû les trier, supprimer certaines données et choisir celles que je voulais. J'ai utilisé un convertisseur en ligne : https://www.freeformatter.com/csv-to-json-converter.html
+Il était compliqué de les transformer car il y avait plus de 65'000 données, ce qui le rend très lourd. J'ai dû les trier, supprimer certaines données et choisir celles que je voulais. J'ai utilisé un convertisseur en ligne : https://www.freeformatter.com/csv-to-json-converter.html
 
 J'ai ensuite utilisé Chart.js pour mettre en forme mes données. 
 
